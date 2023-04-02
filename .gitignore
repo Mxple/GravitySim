@@ -2,3 +2,5 @@ SFML
 x64
 .vs
 *.sln
+*.vcxproj
+*.vcxproj.*
